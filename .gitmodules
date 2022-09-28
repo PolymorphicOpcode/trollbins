@@ -1,0 +1,3 @@
+[submodule "nyancat"]
+	path = nyancat
+	url = https://github.com/klange/nyancat
